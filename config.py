@@ -18,10 +18,10 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/Gokukhan1/Gokubot")
+REPO_URL = getenv("REPO_URL", "https://t.me/Bots_Are_Alive")
 BRANCH = getenv("BRANCH", "main") #don't change
  
-STRING_SESSION1 = getenv("STRING_SESSION1", "")
+STRING_SESSION1 = getenv("STRING_SESSION1", "BQFOSEgAlMHFqRsFC5Jjr_mn0dYy1Ds_0TamfWXHJgrdtWKjT3vMFHIkVmu50YcxeXOsiVD_u4oXvEWwhqOmW0d9AMuDiKRmxOaV9Yi0pCkj9xYArqCf7WT6eByHGrupVm5Gds1Qk3ftnmk7gViRJe_qrtq_zTWKXlJrDy3e1kvu2ssc6mzjCrwDFdb0agk_0nY4n44gZR6w3Kk9kPxEZT4zvyhKIIfH2RfLPf0R4eh9HQ0BARzgpD_InmN-yHTld4h9idfMzyj7Qm8amwj-fjCk_eeMm0wx9z37AUHQRvzRu5pDPksZi1LzNcjwuL8N5Kc57PJ707TXVVFNhRHcppA6kAG4WwAAAAHSq1hVAA")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
 STRING_SESSION4 = getenv("STRING_SESSION4", "")
